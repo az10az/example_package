@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example_package",
+    name="NCM",
     version="0.0.1",
     author="Arlens",
     author_email="email@gmail.com",
