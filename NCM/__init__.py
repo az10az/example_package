@@ -1,2 +1,2 @@
 name = "NCM"
-world.py
+from NCM import world
