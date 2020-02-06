@@ -23,4 +23,3 @@ setuptools.setup(
 	'pandas',
     ]
 )
-© 2020 GitHub
