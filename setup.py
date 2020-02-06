@@ -21,7 +21,6 @@ setuptools.setup(
 	install_requires=[
 	'numpy',
 	'pandas',
-        'python_world@git+https://github.com/ceddlyburge/python_world#egg=python_world-0.0.1',
     ]
 )
 © 2020 GitHub
