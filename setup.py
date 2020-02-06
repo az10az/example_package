@@ -11,7 +11,7 @@ setuptools.setup(
     description="A function that returns 'hello world'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ceddlyburge/python-hello",
+    url="https://github.com/az10az/example_package",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -19,6 +19,8 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
 	install_requires=[
+	'numpy',
+	'pandas',
         'python_world@git+https://github.com/ceddlyburge/python_world#egg=python_world-0.0.1',
     ]
 )
