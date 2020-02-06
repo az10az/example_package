@@ -1,2 +1,1 @@
 name = "NCM"
-world.py
