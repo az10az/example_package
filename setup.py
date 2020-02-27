@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Arlens",
     author_email="email@gmail.com",
-    description="A function that returns 'hello world'",
+    description="Neural Correspondence Mapping Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/az10az/example_package",
