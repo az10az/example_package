@@ -1,12 +1,11 @@
 def visualization():
-    """
-    Makes a visualization.
+    """Extract final adjust process values from BHDS tables.
 
-    input =
+    Args:
+        pri_df {pyspark.sql.dataframe.DataFrame} -- Primary BHDS data
 
-    output = 
-
-    
+    Returns:
+        [pyspark.sql.dataframe.DataFrame] -- Dataframe with features.
     """
     print('visualizing data....')
 
