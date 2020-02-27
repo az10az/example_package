@@ -1,3 +1,3 @@
-def visualize():
+def visualization():
     print('visualizing data....')
 
